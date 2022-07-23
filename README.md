@@ -1,2 +1,1 @@
-# VizyonerGenc-Internship
- First week of the internship
+# Vizyoner Genç 2022 Yaz Stajı

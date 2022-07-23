@@ -1,0 +1,2 @@
+//Tüm projelere dahil edilecek şeylerin konfigürasyonu burda yazılır.
+rootProject.name = 'staj-todo'
