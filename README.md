@@ -1,1 +1,1 @@
-# Vizyoner Genç 2022 Yaz Stajı
+# Trainings and projects that took place during the first week of the Vizyoner Genç Yaz Stajı that I conducted within the TR Eğitim ve Teknoloji company.
